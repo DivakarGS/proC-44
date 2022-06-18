@@ -1,0 +1,15 @@
+1 - TITLE,
+2 - Goal,
+   collect maximum no of gadgets within the given time;
+3 - PC & NPC,
+    PC- Nobita,NPC-Doraemon,and the gadgets;
+4 - RULES,
+    specific no of points to be collected within time or repeat the level;
+5 - Adaptivity,
+    every next level the game is faster and more challenging to collect the gadgets;
+6 - Story,
+    Nobita trying to collect many gadgets from Doraemon;
+7 - Feedback,
+    add sounds when lose,win and while collecting the point;
+8 - Chance vs skill,
+9 - Balance,
